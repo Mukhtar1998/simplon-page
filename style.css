@@ -246,11 +246,10 @@ header {
     gap: 30px;
 }
 .partner-logo {
-    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 10px;
 }
 
 
@@ -263,7 +262,7 @@ header {
 
 .slider img {
     max-width: 80px;
-    display: inline;
+    display: block;
 }
 
 .soutenir h2 {
